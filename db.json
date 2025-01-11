@@ -30,15 +30,6 @@
         "imagen": "https://i.ytimg.com/vi/tOkjVntuvjo/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCZWNy70LbpgYVCuZtXEhzIZGlijg",
         "id": "9552"
       },
-      {
-        "id": "3c98",
-        "nombre": "jah",
-        "precio": "1",
-        "imagen": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Google_Glass_photo.JPG"
-      }
-    ]
-  }
-{
   "categorias": [
       {
         "nombre": "Front End",
