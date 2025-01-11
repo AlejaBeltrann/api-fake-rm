@@ -38,3 +38,175 @@
       }
     ]
   }
+{
+  "categorias": [
+      {
+        "nombre": "Front End",
+        "descripcion": "Estos video te ayudaran a entender el Front End",
+        "color": "#6BD1FF",
+        "seccode": "qwerty",
+        "id": "5"
+      },
+      {
+        "nombre": "Back End",
+        "descripcion": "Estos videos te ayudaran a entender el Back End",
+        "color": "#00C86f",
+        "seccode": "qwerty",
+        "id": "6"
+      },
+      {
+        "nombre": "Innovación y Gestión",
+        "descripcion": "Estos videos teayudaran a entender sobre como innovar y gestionar proyectos y tu tiempo", 
+        "color": "#FFBA05",
+        "seccode": "qwerty",
+        "id": "7"
+      }
+    ],
+
+    "videos": [
+      {
+        "titulo": "Cuándo usar let, var y const?",
+        "linkVideo": "https://www.youtube.com/watch?v=PztCEdIJITY",
+        "linkImagen": "https://img.youtube.com/vi/PztCEdIJITY/0.jpg",
+        "categoria": "Front End",
+        "descripcion": "¿A veces cuando estás programando sientes dificuldades en saber en qué momento utilizar let, var o const para declarar una variable? En este video te sacamos estas dudas, además de explicarte lo que es escopo global y local en JavaScript.",
+        "seccode": "qwerty",
+        "id": "8"
+      },
+      {
+        "titulo": "¿Qué es JavaScript?",
+        "linkVideo": "https://www.youtube.com/watch?v=GJfOSoaXk4s",
+        "linkImagen": "https://img.youtube.com/vi/GJfOSoaXk4s/0.jpg",
+        "categoria": "Front End",
+        "descripcion": "JavaScript: ¿qué es y cómo se hizo este lenguaje que genera muchas discusiones y debates entre la gente del área de desarrollo? Genesys y Gabriela nos hablan exactamente de esto en este Alura Tips.",
+        "seccode": "qwerty",
+        "id": "9"
+      },
+      {
+        "titulo": "Equipo Front End #AluraMás",
+        "linkVideo": "https://www.youtube.com/watch?v=rpvrLaBQwgg",
+        "linkImagen": "https://img.youtube.com/vi/rpvrLaBQwgg/0.jpg",
+        "categoria": "Front End",
+        "descripcion": "¿Estás empezando tus estudios de Programación? ¿Te interesa todo lo que es la creación de Páginas Web Desarrollo de Softwares? ¿O estás pensando en cambiar de carrera y entrar a la maravillosa area de tecnología?",
+        "seccode": "qwerty",
+        "id": "10"
+      },
+      {
+        "titulo": "¿Cómo un desarrollador Front End utiliza el Figma? #AluraMás",
+        "linkVideo": "https://www.youtube.com/watch?v=UuAX5azcvDQ",
+        "linkImagen": "https://img.youtube.com/vi/UuAX5azcvDQ/0.jpg",
+        "categoria": "Front End",
+        "descripcion": "En este Alura+, Genesys, instructora de Alura Latam, nos responde esa pregunta y nos muestra esta conocida herramienta.",
+        "seccode": "qwerty",
+        "id": "11"
+      },
+      {
+        "titulo": "¿Por qué utilizar React?",
+        "linkVideo": "https://www.youtube.com/watch?v=MnBNPA45NW8",
+        "linkImagen": "https://img.youtube.com/vi/MnBNPA45NW8/0.jpg",
+        "categoria": "Front End",
+        "descripcion": "En el Alura.tips de hoy platicaremos con Harland Lohora, instructor Front End en la plataforma de Alura Latam, sobre la librería JS de React. \nHarland nos comentará como surgió React, por que utilizarlo y por que se tornó una librería tan importante en el desarrollo front end.",
+        "seccode": "qwerty",
+        "id": "12"
+      },
+      { 
+        "titulo": "Curso de desarrollo frontend desde cero",
+        "linkVideo": "https://www.youtube.com/watch?v=Aikuakl3i8A",
+        "linkImagen": "https://img.youtube.com/vi/Aikuakl3i8A/0.jpg",
+        "categoria": "Front End",
+        "descripcion": "Este video les ayuda a personas que no conocen nada de Frontend.",
+        "seccode": "qwerty",
+        "id": "13"
+      },
+      {
+        "titulo": "Explorando el poder del Back-End en el Desarrollo Web",
+        "linkVideo": "https://www.youtube.com/watch?v=Z024LSCMqFk",
+        "linkImagen": "https://img.youtube.com/vi/Z024LSCMqFk/0.jpg",
+        "categoria": "Back End",
+        "descripcion": "¿Quieres saber más?",
+        "seccode": "qwerty", 
+        "id": "14"
+      },
+      {
+        "titulo": "De Front End a Back End con Java",
+        "linkVideo": "https://www.youtube.com/watch?v=3aK3Omo2RrU",
+        "linkImagen": "https://img.youtube.com/vi/3aK3Omo2RrU/0.jpg",
+        "categoria": "Back End",
+        "descripcion": "En este Alura.tips nuestra instructora Genesys Rondon nos comentará un poco de como fue su experiencia dejando de trabajar con JavaScript y empezando a trabajar con",
+        "seccode": "qwerty",
+        "id": "14"
+      },
+      {
+        "titulo": "De 0 a Programador Backend - Guia completa paso a paso",
+        "linkVideo": "https://www.youtube.com/watch?v=RYvFfsUyOtk",
+        "linkImagen": "https://img.youtube.com/vi/RYvFfsUyOtk/0.jpg",
+        "categoria": "Back End",
+        "descripcion": "¿Estás pensando en estudiar programación? ¿Te gustaría ser programador o desarrollador de software Backend? En este video te cuento el paso a paso, de cómo empezar a estudiar programación backend por tu propia cuenta, qué tecnologías deberías ver o estudiar y sobre todo en qué orden. Ruta de desarrollo Backend!",
+        "seccode": "qwerty",
+        "id": "15"
+      },
+      {
+        "titulo": "¿Qué hace un DESARROLLADOR BACKEND en 2024?",
+        "linkVideo": "https://www.youtube.com/watch?v=137Q1tSkZ-I",
+        "linkImagen": "https://img.youtube.com/vi/137Q1tSkZ-I/0.jpg",
+        "categoria": "Back End",
+        "descripcion": "¿QUIERES SABER QUÉ HACE UN DESARROLLADOR BACKEND? ¿BUSCAS DESCUBRIR CÓMO PUEDES LLEGAR A TRABAJAR DE BACKEND O A QUÉ SE DEDICA UN BACKEND DEVELOPER?",
+        "seccode": "qwerty",
+        "id": "16"
+      },
+      {
+        "titulo": "Los roles en backend- La mejor explicación en español",
+        "linkVideo": "https://www.youtube.com/watch?v=ZTsi1e-VJIU",
+        "linkImagen": "https://img.youtube.com/vi/ZTsi1e-VJIU/0.jpg",
+        "categoria": "Back End",
+        "descripcion": "El backend es todo lo que ocurre en el lado del servidor para que una aplicación web funcione. En el servidor se manejan los datos, las API, la seguridad y los sistemas operativos. ¿Conoces cuales son los roles? Te lo explicamos en este video.",
+        "seccode": "qwerty",
+        "id": "17"
+      },
+      {
+        "titulo": "¿Cuál es el mejor lenguaje de programación de Backend para ti?",
+        "linkVideo": "https://www.youtube.com/watch?v=eymgiK3y2mU",
+        "linkImagen": "https://img.youtube.com/vi/eymgiK3y2mU/0.jpg",
+        "categoria": "Back End",
+        "descripcion": "Si estas considerando dedicarte al desarrollo web Backend profesional, y has visto que hay muchos lenguajes de programación, y no sabes por cual decidirte, en este video te voy a dar una lista de lenguajes que puedes estudiar para obtener un trabajo bien remunerado o seguir avanzando en tu carrera como programador, entre estos lenguajes podemos encontrar a Go, Rust, Java, Javascript, Python, Ruby, y PHP.",
+        "seccode": "qwerty",
+        "id": "18"
+      },
+      {
+        "titulo": "¿Qué son las Soft Skills?",
+        "linkVideo": "https://www.youtube.com/watch?v=vhwspfvI52k",
+        "linkImagen": "https://img.youtube.com/vi/vhwspfvI52k/0.jpg",
+        "categoria": "Innovación y Gestión",
+        "descripcion": "¿Qué son las Softskills y por qué es tan importante desarrollarlas para posicionarse en el mercado laboral? En este video de Alura Tips, Pri Stuani nos habla de las habilidades más buscadas por las empresas en sus profesionales y cómo las Soft Skills te ayudan en el día a día.",
+        "seccode": "qwerty",
+        "id": "19"
+      },
+      {
+        "titulo": "7 Soft Skills más demandadas de 2024 #AluraMás",
+        "linkVideo": "https://www.youtube.com/watch?v=_-9grhDhxiU",
+        "linkImagen": "https://img.youtube.com/vi/_-9grhDhxiU/0.jpg",
+        "categoria": "Innovación y Gestión",
+        "descripcion": "Siempre estamos hablando aquí en el canal de Alura Latam sobre la importancia de las Soft Skills, y en este video vamos a listar las 7 habilidades blandas más demandadas por las empresas en este 2024.",
+        "seccode": "qwerty",
+        "id": "20"
+      },
+      {
+        "titulo": "¿Qué son las metodologias ágiles?",
+        "linkVideo": "https://www.youtube.com/watch?v=6N3OkLCfK-0",
+        "linkImagen": "https://img.youtube.com/vi/6N3OkLCfK-0/0.jpg",
+        "categoria": "Innovación y Gestión",
+        "descripcion": "En este video nuestra invitada, Andyara, nos explicará que són las muy conocidas hoy en día metodologias ágiles y nos comentará un poco sobre como aplicarlas y cuáles son los beneficios de utilizarlas en su equipo o empresa.",
+        "seccode": "qwerty",
+        "id": "21"
+      },
+      {
+        "titulo": "¿Cuál Herramienta de Gestión de Proyectos es la Mejor para Ti? #aluratips",
+        "linkVideo": "https://www.youtube.com/watch?v=O4cxvckONRE",
+        "linkImagen": "https://img.youtube.com/vi/O4cxvckONRE/0.jpg",
+        "categoria": "Innovación y Gestión",
+        "descripcion": "¿En este AluraTips, Ellen Pimentel comparte su trayectoria en la gestión de proyectos, comenzando desde su formación en Turismo hasta su transición a la programación y su rol actual en Alura. Ella destaca el uso de herramientas como Notion y ClickUp, enfatizando que, aunque son útiles, lo más importante son las habilidades de planificación y organización.",
+        "seccode": "qwerty",
+        "id": "21"
+      }
+    ]
+  }
