@@ -40,14 +40,21 @@
       "categoria": "Café Punto Tech",
       "descripcion": "¿Te has preguntado cómo puedes optimizar tu rutina de estudios utilizando la tecnología más avanzada?\n\n",
       "seccode": "qwerty"
+    }
+  ],
+  "categorias": [
+    {
+      "id": "e5aa0148-1ef8-4f00-9844-f0fa21a99a3b",
+      "nombre": "Front End",
+      "descripcion": "Todos los video que estoy usando para estudiar Front End",
+      "color": "#6BD1FF",
+      "seccode": "qwerty"
     },
     {
-      "id": "b2703fe1-2fd3-42d6-bed5-a0703530c8b9",
-      "titulo": "¿Cómo un desarrollador Front End utiliza el Figma? #AluraMás",
-      "linkVideo": "https://www.youtube.com/watch?v=UuAX5azcvDQ",
-      "linkImagen": "https://img.youtube.com/vi/UuAX5azcvDQ/maxresdefault.jpg",
-      "categoria": "Front End",
-      "descripcion": "En este Alura+, Genesys, instructora de Alura Latam, nos responde esa pregunta y nos muestra esta conocida herramienta.",
+      "id": "f08bd541-5f07-4e70-8287-1c4e380b0069b",
+      "nombre": "Back End",
+      "descripcion": "Todos los video que estoy usando para estudiar Back End",
+      "color": "#00c86f",
       "seccode": "qwerty"
     }
   ]
