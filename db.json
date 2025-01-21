@@ -1,3 +1,4 @@
+
 {
   "productos": [
     {
@@ -32,30 +33,109 @@
     }
   ],
   "videos": [
-    {
-      "id": "0e503d5c-26a2-452c-b2a5-63761701730f",
-      "titulo": "Cafe Punto Tech #2: Tips de como organizar tu rutina de estudios con IA",
-      "linkVideo": "https://www.youtube.com/watch?v=PIVI3Y6ckDA",
-      "linkImagen": "https://img.youtube.com/vi/PIVI3Y6ckDA/maxresdefault.jpg",
-      "categoria": "Café Punto Tech",
-      "descripcion": "¿Te has preguntado cómo puedes optimizar tu rutina de estudios utilizando la tecnología más avanzada?\n\n",
-      "seccode": "qwerty"
-    }
+       
+    {"id": "17cc8659-2307-492e-8bcf-8b7b2c2bbd10",
+    "titulo": " ¿Qué es JavaScript?",
+    "linkVideo": "https://www.youtube.com/watch?v=GJfOSoaXk4s",
+    "linkImagen": "https://img.youtube.com/vi/GJfOSoaXk4s/maxresdefault.jpg",
+    "categoria": "Front End",
+    "descripcion": "JavaScript: ¿qué es y cómo se hizo este lenguaje que genera muchas discusiones y debates entre la gente del área de desarrollo? Genesys y Gabriela nos hablan exactamente de esto en este Alura Tips.",
+    "seccode": "asdf"
+  },
+  {
+    "id": "87dc56f1-4b2e-453f-a349-395522a31f93",
+    "titulo": " Equipo Front End #AluraMás",
+    "linkVideo": "https://www.youtube.com/watch?v=rpvrLaBQwgg",
+    "linkImagen": "https://img.youtube.com/vi/rpvrLaBQwgg/maxresdefault.jpg",
+    "categoria": "Front End",
+    "descripcion": "¿Estás empezando tus estudios de Programación? ¿Te interesa todo lo que es la creación de Páginas Web Desarrollo de Softwares? ¿O estás pensando en cambiar de carrera y entrar a la maravillosa area de tecnología? En este video, Jeanmarie Quijada, instructora Front End en Alura Latam te explica qué hace el equipo de Front End.",
+    "seccode": "asdfbj"
+  },
+  {
+    "id": "b52106ad-304c-4d50-a5f6-1583c9aedeaa",
+    "titulo": "Cómo volverse un desarrollador Front End #AluraTips",
+    "linkVideo": "https://www.youtube.com/watch?v=-Ou5c3A225k",
+    "linkImagen": "https://img.youtube.com/vi/-Ou5c3A225k/maxresdefault.jpg",
+    "categoria": "Front End",
+    "descripcion": "Terminé mis estudios, ¿y ahora? ¿Cómo puedo entrar al mercado laboral? ¿Cómo encontrar un trabajo front end? En este video nuestra instructor Barbara nos da algunos consejos para las personas que desean entrar en el área del desarrollo web.",
+    "seccode": "hgfds"
+  },
+  {
+    "id": "328480c9-3c54-4e9a-a92b-6045306db83d",
+    "titulo": " De Front End a Back End con Java",
+    "linkVideo": "https://www.youtube.com/watch?v=3aK3Omo2RrU",
+    "linkImagen": "https://img.youtube.com/vi/3aK3Omo2RrU/maxresdefault.jpg",
+    "categoria": "Back End",
+    "descripcion": "En este Alura.tips nuestra instructora Genesys Rondon nos comentará un poco de como fue su experiencia dejando de trabajar con JavaScript y empezando a trabajar con Java.\n",
+    "seccode": "erty"
+  },
+  { 
+    "id": "f57b7f91-3054-4db9-80ba-3a7942935b59",
+    "titulo": " Los roles en backend- La mejor explicación en español",
+    "linkVideo": "https://www.youtube.com/watch?v=ZTsi1e-VJIU",
+    "linkImagen": "https://img.youtube.com/vi/ZTsi1e-VJIU/maxresdefault.jpg",
+    "categoria": "Back End",
+    "descripcion": "El backend es todo lo que ocurre en el lado del servidor para que una aplicación web funcione. En el servidor se manejan los datos, las API, la seguridad y los sistemas operativos. ¿Conoces cuales son los roles? Te lo explicamos en este video.",
+    "seccode": "swert"
+  },
+  {
+    "id": "bd6cfb40-f057-46cf-975b-84bf83d618f0",
+    "titulo": "Ruta para ser programador BACKEND 2025",
+    "linkVideo": "https://www.youtube.com/watch?v=ZSS5R_ygR9Y",
+    "linkImagen": "https://img.youtube.com/vi/ZSS5R_ygR9Y/maxresdefault.jpg",
+    "categoria": "Back End",
+    "descripcion": "Estas son las tecnologías que necesitas para ser programador web BACKEND en 2025",
+    "seccode": "lkjh"
+  },
+  {
+    "id": "5d015649-c9e7-4a67-a8bf-774453410578",
+    "titulo": " 7 Soft Skills más demandadas de 2024 #AluraMás",
+    "linkVideo": "https://www.youtube.com/watch?v=_-9grhDhxiU",
+    "linkImagen": "https://img.youtube.com/vi/_-9grhDhxiU/maxresdefault.jpg",
+    "categoria": "Innovación y Gestión",
+    "descripcion": "Siempre estamos hablando aquí en el canal de Alura Latam sobre la importancia de las Soft Skills, y en este video vamos a listar las 7 habilidades blandas más demandadas por las empresas en este 2024.",
+    "seccode": "mnhgfd"
+  },
+  {
+    "id": "3d66bbf9-ce36-4652-abdd-9624e1781c56",
+    "titulo": "Battle Tech: Test de Conocimientos en Programación, Data Science y Gestión #aluratips",
+    "linkVideo": "https://www.youtube.com/watch?v=vYoYr1nLUNg",
+    "linkImagen": "https://img.youtube.com/vi/vYoYr1nLUNg/maxresdefault.jpg",
+    "categoria": "Innovación y Gestión",
+    "descripcion": "¿Quién sabe más de programación, front-end, data science, innovación y gestión? En este divertido quiz, Barbara dos Santos y Ellen Pimentel compiten para responder preguntas de forma rápida mientras Gabi Aguiar pone a prueba sus conocimientos. ¡Descubre quién es el más ágil y cuánto sabes tú sobre estas áreas clave de la tecnología! ¿Listo para el reto?",
+    "seccode": "bgfr"
+  },
+  {
+    "id": "121bd4eb-b3bb-495a-84e8-df979aaf0aec",
+    "titulo": "¿Qué es la Heutagogía? La Revolución del Aprendizaje Autodirigido #aluramás",
+    "linkVideo": "https://www.youtube.com/watch?v=-hq-rOK8iWM",
+    "linkImagen": "https://img.youtube.com/vi/-hq-rOK8iWM/maxresdefault.jpg",
+    "categoria": "Innovación y Gestión",
+    "descripcion": "¿Has oído hablar de la heutagogía? En este video exploramos este enfoque revolucionario de aprendizaje autodirigido que promueve la autonomía y la autorregulación en el proceso de aprender. Descubre cómo esta metodología fomenta la independencia, el desarrollo de habilidades críticas y la adaptabilidad en un mundo que exige constante actualización de conocimientos. Desde sus diferencias con la pedagogía y la andragogía hasta su aplicación en la vida profesional y personal, aprenderás por qué la heutagogía es clave para el aprendizaje en el siglo XXI.",
+    "seccode": "ytre"
+  } 
   ],
   "categorias": [
     {
-      "id": "e5aa0148-1ef8-4f00-9844-f0fa21a99a3b",
+      "id": "567",
       "nombre": "Front End",
-      "descripcion": "Todos los video que estoy usando para estudiar Front End",
+      "descripcion": "Estos video te ayudan para iniciar en Front End",
       "color": "#6BD1FF",
       "seccode": "qwerty"
     },
     {
-      "id": "f08bd541-5f07-4e70-8287-1c4e380b0069b",
+      "id": "345678",
       "nombre": "Back End",
-      "descripcion": "Todos los video que estoy usando para estudiar Back End",
+      "descripcion": "Estos video te ayudan para iniciar en Back End",
       "color": "#00c86f",
       "seccode": "qwerty"
+    },
+    {
+      "id": "086467",
+      "nombre": "Innovación y Gestión",
+      "descripcion": "Aprende como gestionar e innovar en tus proyectos",
+      "color": "#FFBA05",
+      "seccode":"qwerty"
     }
   ]
 }
